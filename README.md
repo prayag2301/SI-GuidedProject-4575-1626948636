@@ -1,4 +1,7 @@
 # Team Name : Scrantonicity
+# Team Number : 1
+# College : VIT, Vellore
+# Opted Technology : Artificial Intelligence
 
 ## Team Members
 
